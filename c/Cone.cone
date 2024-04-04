@@ -1,4 +1,0 @@
-import stdio::*
-
-fn main():
-  print <- "Hello World"

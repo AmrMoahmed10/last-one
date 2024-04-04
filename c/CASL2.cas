@@ -1,6 +1,0 @@
-MAIN    START
-        OUT     MSG,LEN
-        RET
-MSG     DC      'Hello World'
-LEN     DC      18
-        END

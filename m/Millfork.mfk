@@ -1,5 +1,0 @@
-import stdio
-
-void main() {
-    putstrz("Hello World"z)
-}
